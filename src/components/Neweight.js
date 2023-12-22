@@ -7,8 +7,8 @@ export default function Neweight() {
                 VPS Hosting Features
             </h1>
             <div className='neweightmain'>
-                <div className='neweightmain1'>
-                    <img alt=' ' src="./media/105.svg" />
+                <div className='neweightmain1'  data-testid="feature-1">
+                    <img data-testid="image-1" alt=' ' src="./media/105.svg"  />
                     <h1>
                         Reliable Cloud Infrastructure
                     </h1>

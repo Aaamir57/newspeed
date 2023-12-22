@@ -20,7 +20,7 @@ export default function Newfour() {
                         <h2><span>Deploy in 30 seconds:</span> Easily and quickly deploy your software or application in
                             just 30 seconds. This saves your time and effort, and lets you get to work faster.</h2>
                     </div>
-                    <div className='newfourmainleft1'>
+                    <div className='newfourmainleft1'  data-testid="feature">
                         <img alt=' ' src="./media/103.svg" />
                        <h2>
                         <span>
@@ -29,7 +29,7 @@ export default function Newfour() {
                         over the phone, send an email, or submit a ticket, and get the help you need at any time.
                        </h2>
                     </div>
-                    <div className='newfourmainleft1'>
+                    <div className='newfourmainleft1'  data-testid="feature">
                         <img alt=' ' src="./media/103.svg" />
                        <h2><span>
                        30 Minutes Guaranteed Response:
@@ -39,7 +39,7 @@ export default function Newfour() {
                     <h3>Explore More Features:</h3>
                 </div>
                
-                <div className='newfourmainright' >
+                <div className='newfourmainright'  data-testid="feature">
                 <img alt=' ' src="./media/101.svg" data-aos="fade-down" data-aos-once="true" data-aos-duration="1000" />
                 </div>
             </div>

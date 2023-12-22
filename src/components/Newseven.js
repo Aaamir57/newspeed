@@ -13,10 +13,7 @@ export default function Newseven() {
                 <div className='sectioneightmain00'>
 
                     <div className='eightbutton9'>
-                        {/* <button className='eightbutton1'>
-                            <h1>Monthly Billing</h1>
-                        </button>
-                        <h2>Annual Billing</h2> */}
+                       
 
 
 

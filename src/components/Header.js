@@ -31,7 +31,7 @@ export default function Header() {
                     <button className='signupbtn'>
                         <h1>Signup</h1>
                     </button>
-                    <div className="toggle_btn1" onClick={toggleDropdown}>
+                    <div className="toggle_btn1" onClick={toggleDropdown} data-testid="toggle-btn">
                         <FontAwesomeIcon icon={isOpen ? faXmark : faBars} />
                     </div>
                 </div>

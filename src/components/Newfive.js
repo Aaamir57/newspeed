@@ -26,7 +26,7 @@ export default function Newfive() {
 
                 </div>
                 <div className='newfivemainright'>
-                    <img alt=' ' src="./media/100.png" data-aos="flip-up" data-aos-once="true" data-aos-duration="1000" />
+                    <img  src="./media/100.png" data-aos="flip-up" data-aos-once="true" data-aos-duration="1000"  alt="No-Questions-Asked 30-Day Refund Guarantee" />
                 </div>
             </div>
         </div>
